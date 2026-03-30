@@ -2,9 +2,9 @@
 ### Course: CSE0001 - Digital Literacy
 
 ## Student Information
-* **Name:** Navya Vyas 
-* **Registration Number:** 25BAI10566
-* **Branch:** B.Tech Computer Science & Engineering (Artificial Intelligence & Machine Learning)
+* **Name:** Anuvya Srivastava
+* **Registration Number:** 25BCE10687
+* **Branch:** B.Tech Computer Science & Engineering (Core)
 * **Year:** First Year (2025-2029)
 
 ---
